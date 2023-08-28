@@ -11,6 +11,6 @@
 
 ![alt text](https://github.com/madhavmantri/mouse_ovulation/blob/main/GITHUB_WORKFLOW.png)
 
-**Raw data:** All raw sequencing data generated for this study have been deposited in NCBI's Gene Expression Omnibus (GEO) with GEO series accession number GSE240271. Bead barcode location files matched to spatial transcriptomics datasets have been made publicly available on GitHub (https://github.com/madhavmantri/mouse_ovulation/).
+**Raw data:** All raw sequencing data generated for this study have been deposited in NCBI's Gene Expression Omnibus (GEO) with GEO series accession number [GSE240271](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE240271). Bead barcode location files matched to spatial transcriptomics datasets have been made publicly available on [GitHub](https://github.com/madhavmantri/mouse_ovulation/barcode_location_files).
 
-**Contents:** This repository contains slide-seq spatial barcode informaiton for spatial RNAseq experiments, meta data files for processed spatial transcriptomes, and scripts/ notebooks required to reproduce the analysis presented in our study.
+**Contents:** This repository contains slide-seq spatial barcode informaiton for spatial RNAseq experiments (barcode_location_files/), meta data files for processed spatial transcriptomes (metadata_csvs/), and jupyter notebook files (notebooks/) required to reproduce the analysis presented in our study. Please email me at mm2937@cornell.edu for any concerns, questions, or suggestions.
