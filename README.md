@@ -8,6 +8,7 @@
 **DOI:** https://doi.org/10.1101/2023.08.21.554210
 
 **Summary:** This reporsitory contains analysis scripts for spatial transcriptomics data of ovulating mouse ovaries. The flow daigram here describes the experiment workflow used to generate the spatial trasncriptomics datasets.
+
 ![alt text](https://github.com/madhavmantri/mouse_ovulation/blob/main/GITHUB_WORKFLOW.png)
 
 **Raw data:** All raw sequencing data generated for this study have been deposited in NCBI's Gene Expression Omnibus (GEO) with GEO series accession number GSE240271. Bead barcode location files matched to spatial transcriptomics datasets have been made publicly available on GitHub (https://github.com/madhavmantri/mouse_ovulation/).
